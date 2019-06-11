@@ -2,7 +2,8 @@
 # Run Python programs
 
 # Make a Python program that prints your name.
-print("Theresa Neate")
+name = "Theresa Neate"
+print(name)
 
 # Make a program that displays the lyrics of a song.
 enterSandman = """
