@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # exercises https://pythonbasics.org/exercises/
-
+import array
 
 s = "Its too easy"
 words = s.split()
@@ -13,6 +13,10 @@ word = "Easy"
 x = list(word)
 print(x)
 
+
+x = array([3, 6, 9, 12])
+x/3.0
+print(x)
 
 # Can a string be split on multiple characters?
 

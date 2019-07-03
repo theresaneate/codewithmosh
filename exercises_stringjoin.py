@@ -19,4 +19,5 @@ print(sentence)
 
 # Create a list of words and join them, like the example above.
 
+
 # Try changing the seperator string from a space to an underscore.
