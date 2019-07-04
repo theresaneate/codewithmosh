@@ -13,3 +13,9 @@ else:
     print("Invalid input received")
 
 # Make a program that asks a password.
+mypassword = input("Please provide your password: ")
+
+if str(mypassword) is "":
+    print("Invalid input received")
+else:
+    print("Your password was accepted")

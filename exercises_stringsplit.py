@@ -14,9 +14,9 @@ x = list(word)
 print(x)
 
 
-x = array([3, 6, 9, 12])
-x/3.0
-print(x)
+# x = array([3, 6, 9, 12])
+# x/3.0
+# print(x)
 
 # Can a string be split on multiple characters?
 
