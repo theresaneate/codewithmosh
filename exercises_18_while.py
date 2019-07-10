@@ -5,9 +5,10 @@ import random
 
 guess = 0
 answer = random.randint(1, 5)
+# print(answer)
 
 while answer != guess:
-    guess = int(input("Guess the number: "))
+    guess = int(input("Guess the number from 1 to 5: "))
     if guess not in range(1, 6) or guess is False:
         print("Only values between 1 and 5 area accepted")
 else:
