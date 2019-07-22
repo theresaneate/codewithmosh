@@ -46,3 +46,6 @@ if index_location != -1:
 else:
     my_list.append(name)
     print("New name added to list")
+
+for name in my_list:
+    print(name)
