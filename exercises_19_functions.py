@@ -9,7 +9,7 @@ def increment(number, by):
 print("\nThe output of the regular passed in values with no input is:")
 print(increment(4, 2))
 
-# notes: a tuple is like a list but is read-only e.g. list [] tuple ()
+# notes: a tuple is like a list but is read-only e.g. list[] tuple()
 # see the annotation in function definition!
 
 
