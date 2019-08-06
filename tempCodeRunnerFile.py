@@ -1,8 +1,13 @@
-check = True
-# while check:
-#     phonenumber = input("Please provide a phone number: ")
-#     if phonenumber.isdigit():
-#         print("Your phone number is : " + str(phonenumber))
-#         check = False
-#     else:
-#         print("Sorry, only whole numbers accepted" + "\n")
+
+# # third exercise
+# print("third - looping over numbers e.g. multiplying them:")
+
+
+# def multiply3(*list):
+#     total = 1
+#     for number in list:
+#         total *= number
+#     return total
+
+
+# print(multiply3(1, 2, 3, 4))
