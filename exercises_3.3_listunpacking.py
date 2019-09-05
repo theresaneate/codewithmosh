@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# https://codewithmosh.com/courses/423295/lectures/6781740
-
+# https://codewithmosh.com/courses/423295/
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 first, second, *other, last = numbers
 print("Values:")
