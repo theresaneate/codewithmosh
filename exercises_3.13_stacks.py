@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # https://codewithmosh.com/courses/423295/
 
+import os
+
+# to clear the screen!
+os.system("clear")
+
 # stacks are just lists
 browsing_session = []
 browsing_session.append(1)
@@ -28,5 +33,5 @@ if not browsing_session:
     print(browsing_session[-1])
 
 if browsing_session:
-    print("\nIF statement: Checking 'if browsing_session':")
+    print("\nIF statement: Checking 'if browsing_session' i.e. is is true/not empty")
     print(browsing_session)

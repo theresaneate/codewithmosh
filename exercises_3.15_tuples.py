@@ -2,6 +2,12 @@
 # https://codewithmosh.com/courses/423295/
 
 
+import os
+
+# to clear the screen!
+os.system("clear")
+
+
 point = (1, 2)
 
 
