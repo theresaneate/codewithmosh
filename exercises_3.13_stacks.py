@@ -26,7 +26,7 @@ print("stack = " + str(browsing_session))
 print("-2 = ", + browsing_session[-2])
 print("-1 = ", + browsing_session[-1])
 
-print("\nChecking if empty browsing session with 'not browing_session'")
+print("\nChecking if empty browsing session with 'not browsing_session'")
 print("Empty? " + str(not browsing_session))
 if not browsing_session:
     print("disable")

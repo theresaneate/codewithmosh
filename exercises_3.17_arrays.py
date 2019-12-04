@@ -33,6 +33,6 @@ numbers.pop()
 print("\npop()")
 outputArray()
 
-print(numbers[0])
 print("\nnumbers[0]")
+print(numbers[0])
 outputArray()
