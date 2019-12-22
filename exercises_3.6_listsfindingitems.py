@@ -5,10 +5,11 @@ letters = ["a", "b", "c"]
 print(letters)
 print(letters.index("a"))
 
-if "d" in letters:
+if "a" in letters:
     print("Found!")
-    print(letters.index("d"))
+    # print(letters.index("a"))
 else:
     print("Not found")
 
+letters = ["a", "b", "c", "c"]
 print(letters.count("c"))
