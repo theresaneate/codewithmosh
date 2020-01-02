@@ -32,10 +32,10 @@ print(first | second)
 # intersection - what's common in both
 print(first & second)
 
-# different between 2 sets
+# difference between 2 sets
 print(first - second)
 
-# symmetric differnence (in one or other, but not both)
+# symmetric difference (in one or other, but not both)
 print(first ^ second)
 
 if 1 in first:

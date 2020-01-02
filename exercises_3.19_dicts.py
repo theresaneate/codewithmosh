@@ -42,7 +42,8 @@ print("\nDelete the kvp of x using del")
 del point["x"]
 print(point)
 
-print("\npoint.items(), aka D.items() -> a set-like object providing a view on D's items")
+# point.items()
+print("\n D.items() -> a set-like object providing a view on")
 print(point.items())
 print("\nIterate through the dictionary using .items()")
 for x in point.items():
