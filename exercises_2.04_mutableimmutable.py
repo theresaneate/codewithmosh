@@ -12,13 +12,13 @@ os.system("clear")
 
 # can seemingly edit the string but this actually points to new memory location
 
-# mystring = "hello world"
-# print(mystring)
-# print(id(mystring))
+mystring = "hello world"
+print(mystring)
+print(id(mystring))
 
-# mystring = "\ntesting 123"
-# print(mystring)
-# print(id(mystring))
+mystring = "\ntesting 123"
+print(mystring)
+print(id(mystring))
 
 # mutable types = lists, dictionaries, sets
 
@@ -33,7 +33,7 @@ print(myobject)
 print(id(myobject))
 print(type(myobject))
 
-# myobject = "\ntesting 123"
-# print(myobject)
-# print(id(myobject))
-# print(type(myobject))
+myobject = "\ntesting 123"
+print(myobject)
+print(id(myobject))
+print(type(myobject))
